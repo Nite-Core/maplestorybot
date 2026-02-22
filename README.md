@@ -1,3 +1,7 @@
+# NiteCore MapleBot
+
+## Powerful MapleStory Automation for MSEA, GMS, and Private Servers
+
 # :milky_way: Welcome to the Future of Mapling: **NiteCore** :milky_way:
 
 **Stop grinding harder. Start grinding smarter.**
@@ -118,6 +122,7 @@ https://github.com/user-attachments/assets/11753c61-9492-4c70-a57e-de38467bb7c6
 
 
 **Don't just play the game. Dominate it.**
+
 
 
 
