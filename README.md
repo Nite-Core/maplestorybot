@@ -63,7 +63,7 @@ No hard-coded limits. No one-size-fits-all scripting.
 - :detective: **Auto CC**: Detects players on minimap and swaps channels.
 - :ferris_wheel: **Auto Monster Park**: Automates daily clears.
 - :scroll: **Auto Daily Quests**: Accepts, completes, and claims dailies.
-- :mobile_phone: **Discord Remote Control**: Manage status, screenshots, and controls from your phone.
+- :calling: **Discord Remote Control**: Manage status, screenshots, and controls from your phone.
 - :calling: **Telegram Remote Control**: Full mobile command and monitoring support.
 
 ## :rocket: Ready to Start?
@@ -118,6 +118,7 @@ https://github.com/user-attachments/assets/11753c61-9492-4c70-a57e-de38467bb7c6
 
 
 **Don't just play the game. Dominate it.**
+
 
 
 
