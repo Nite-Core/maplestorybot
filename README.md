@@ -70,6 +70,7 @@ No hard-coded limits. No one-size-fits-all scripting.
 - :calling: **Discord Remote Control**: Manage status, screenshots, and controls from your phone.
 - :gem: **Auto Treasure Chest:** Auto attacks treasure when it appears.
 - :star_of_david: **Auto Convert Sol Erda:** Auto convert Sol Erda to Energy/HEXA Booster. 
+- :six_pointed_star: **Easy Sol Janus Setup** Bind the appropriate key and add the points that you want Sol Janus to be used.
 - :calling: **Telegram Remote Control**: Full mobile command and monitoring support.
 
 ## :rocket: Ready to Start?
@@ -124,6 +125,7 @@ https://github.com/user-attachments/assets/11753c61-9492-4c70-a57e-de38467bb7c6
 
 
 **Don't just play the game. Dominate it.**
+
 
 
 
