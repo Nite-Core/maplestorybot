@@ -72,7 +72,7 @@ No hard-coded limits. No one-size-fits-all scripting.
 
 ## :rocket: Ready to Start?
 
-[https://discord.gg/8NndFGpeYp](https://discord.gg/C6pVqj82jT) Join the discord server to get started!
+[https://discord.gg/C6pVqj82jT](https://discord.gg/C6pVqj82jT) Join the discord server to get started!
 
 
 Feature examples:
@@ -122,6 +122,7 @@ https://github.com/user-attachments/assets/11753c61-9492-4c70-a57e-de38467bb7c6
 
 
 **Don't just play the game. Dominate it.**
+
 
 
 
