@@ -68,6 +68,8 @@ No hard-coded limits. No one-size-fits-all scripting.
 - :ferris_wheel: **Auto Monster Park**: Automates daily clears.
 - :scroll: **Auto Daily Quests**: Accepts, completes, and claims dailies.
 - :calling: **Discord Remote Control**: Manage status, screenshots, and controls from your phone.
+- :gem: **Auto Treasure Chest:** Auto attacks treasure when it appears.
+- :star_of_david: **Auto Convert Sol Erda:** Auto convert Sol Erda to Energy/HEXA Booster. 
 - :calling: **Telegram Remote Control**: Full mobile command and monitoring support.
 
 ## :rocket: Ready to Start?
@@ -122,6 +124,7 @@ https://github.com/user-attachments/assets/11753c61-9492-4c70-a57e-de38467bb7c6
 
 
 **Don't just play the game. Dominate it.**
+
 
 
 
