@@ -61,17 +61,22 @@ No hard-coded limits. No one-size-fits-all scripting.
 
 ## :robot: Feature Highlights
 
-- :fire: **Auto Farm**: 270+ mobs/min with human-like combat logic.
-- :crystal_ball: **Auto Rune Solver**: Handles all rune arrow colors automatically.
-- :hospital: **Auto Care**: Smart potions, pet feeding, and auto-revive.
-- :detective: **Auto CC**: Detects players on minimap and swaps channels.
-- :ferris_wheel: **Auto Monster Park**: Automates daily clears.
-- :scroll: **Auto Daily Quests**: Accepts, completes, and claims dailies.
-- :calling: **Discord Remote Control**: Manage status, screenshots, and controls from your phone.
-- :gem: **Auto Treasure Chest:** Auto attacks treasure when it appears.
-- :star_of_david: **Auto Convert Sol Erda:** Auto convert Sol Erda to Energy/HEXA Booster. 
-- :six_pointed_star: **Easy Sol Janus Setup** Bind the appropriate key and add the points that you want Sol Janus to be used.
-- :calling: **Telegram Remote Control**: Full mobile command and monitoring support.
+-:fire: **Auto Farm:** 260+ Mobs/min with human-like combat logic.
+:crystal_ball: **Auto Rune Solver:** Solves **ALL** rune arrow colors automatically.
+:hospital: **Auto Care:** Smart Potions, Pet Feeding, and Auto-Revive if you slip up.
+:detective: **Auto CC:** Detects other players on the minimap and changes channels instantly.
+:ferris_wheel: **Auto Monster Park:** Clears your daily runs without you lifting a finger.
+:scroll: **Auto Daily Quests:** Accepts, completes, and claims your dailies automatically.
+:gem: **Auto Treasure Chest:** Auto attacks treasure when it appears.
+:star_of_david: **Auto Convert Sol Erda:** Auto convert Sol Erda to Energy/HEXA Booster.
+:ghost: **Auto Clear Petrify** Clears petrify to prevent death, continue to farm~
+:safety_vest: **Auto Safety Charm** Auto use safety charm after death~
+:mobile_phone: **Discord Remote Control:** Manage your bot, get screenshots, and check status directly from your phone via Discord!
+:calling: **Telegram Remote Control:** Manage your bot, get screenshots, and check status directly from your phone via Telegram!
+:six_pointed_star: **Easy Sol Janus Setup** Bind the appropriate key and add the points that you want Sol Janus to be used.
+:desktop: **Low-End Performance Mode:** Headless mode to maximize AI responsiveness on weaker PCs [40MB Ram Usage].
+:magic_wand: **Advanced Hyper Teleport:** Able to teleport to map target at super speed with no bookmark/favourite needed.
+:keyboard: **Advanced Combo Keybind:** Able to use skill that has combo involved, like Kinesis/Aran.
 
 ## :rocket: Ready to Start?
 
