@@ -61,7 +61,7 @@ No hard-coded limits. No one-size-fits-all scripting.
 
 ## :robot: Feature Highlights
 
--:fire: **Auto Farm:** 260+ Mobs/min with human-like combat logic.
+:fire: **Auto Farm:** 260+ Mobs/min with human-like combat logic.
 :crystal_ball: **Auto Rune Solver:** Solves **ALL** rune arrow colors automatically.
 :hospital: **Auto Care:** Smart Potions, Pet Feeding, and Auto-Revive if you slip up.
 :detective: **Auto CC:** Detects other players on the minimap and changes channels instantly.
