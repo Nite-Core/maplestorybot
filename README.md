@@ -50,7 +50,7 @@ No hard-coded limits. No one-size-fits-all scripting.
 
 - :ghost: **Undetectable Input Strategy**: Engineered to look and behave like real human control.
 - :jigsaw: **24/7 Lie Detector Protection**:
-  - **Auto-Solve** during high-risk windows (2am-6am).
+  - **Auto-Solve** all possble LDs in OfficialMS and some PrivateMS.
   - **Smart Bypass** outside peak risk hours.
 - :eyes: **Adaptive Intelligence**:
   - **A\* Pathfinding**
