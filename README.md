@@ -66,6 +66,10 @@ No hard-coded limits. No one-size-fits-all scripting.
 🔥 Auto Farm
 260+ mobs/min with human-like combat logic.
 
+⚠️
+Advanced LD Solver
+Capable of automatically solving ALL LDs in OfficialMS + Some PrivateMS.
+
 🔮 Auto Rune Solver
 Solves ALL rune arrow colors automatically.
 
